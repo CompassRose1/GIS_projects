@@ -1,5 +1,5 @@
 # GIS_projects
-GIS projects created for PSU course
+Projects created for GIS course
 
 Project 1: Contours. Script that creates contours and slope for a DEM.
 
